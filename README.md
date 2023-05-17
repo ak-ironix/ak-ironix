@@ -3,9 +3,9 @@
 
 - 🏆 **Specialist** on Codeforces
 
-- 🔭 I have worked on **NodeJs and Express**
+- 🔭 I have worked on **NodeJs and ExpressJs**
 
-- 🌱 I’m currently learning **ExpressJs, MongoDB and libp2p**
+- 🌱 I’m currently learning more about **ExpressJs, MongoDB and libp2p**
 
 - 📄 Interested in Computer Networking and making existing solutions scalable for the masses
 
