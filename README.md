@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ExpressJs, MongoDB and libp2p**
 
-- 📫 How to reach me **akchatasr@gmail.com**
+- 📫 You can reach me using my mail: **akchatasr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
