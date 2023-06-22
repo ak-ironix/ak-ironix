@@ -5,7 +5,7 @@
 
 - 🔭 I have worked on **NodeJs and ExpressJs**
 
-- 🌱 I’m currently learning more about **ExpressJs, MongoDB and libp2p**
+- 🌱 I’m currently learning more about **ExpressJs, React and Security**
 
 - 📄 Interested in Computer Networking and making existing solutions scalable for the masses
 
